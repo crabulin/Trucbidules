@@ -1,0 +1,16 @@
+Notes pour le cours FA
+
+Moteur graphique :
+tout fait avec des triangles de couleur, rectangles, cercles ?
+
+necessaire de calculer les intersections de l'ecran avec les objets
+
+R-tree
+Quadtree:
+
+
+plus courts chemins
+
+soit avec une grille
+soit avec un graphe de visibilité autour des obstacles
+navmesh, waypoint graph
